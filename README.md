@@ -3,4 +3,4 @@ This repository contains the Long-Short Term Memory (LSTM) Neural Network publis
 
 Please cite the corresponding publication any time this network is implemented or referenced:
 
-**Bennett, H. J., et al. (BIO-23-1247, Accepted Dec 2023) PREDICTING KNEE JOINT CONTACT FORCES DURING NORMAL WALKING USING KINEMATIC INPUTS WITH A LONG-SHORT TERM NEURAL NETWORK. Journal of Biomechanical Engineering**
+**Bennett, H. J., Estler, K., Valenzuela, K. A., and Weinhandl, J. T. (January 25, 2024). "Predicting Knee Joint Contact Forces During Normal Walking Using Kinematic Inputs with A Long-Short Term Neural Network." ASME. J Biomech Eng. doi: https://doi.org/10.1115/1.4064550**
